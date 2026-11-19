@@ -1,13 +1,13 @@
-// v14 broadsheet for news-image-20261118 (Wednesday 18 November 2026)
-// Masthead: "World Today" title with date and publication mark
-// Layout: six-continent stylized map band across upper third
-// Content zones: three columns of regional headline cards below map
-// Regional breakdown: Americas (left), Europe & Africa (center), Asia-Pacific (right)
-// Story count: 30 headlines curated for breadth across geopolitics, economics, tech, and culture
-// Data sources: major news agencies, wire services, and verified international outlets
-// Typography: serif masthead with sans-serif body text for newsprint authenticity
-// Color palette: high-contrast print design with blue accent band and grayscale regions
-// Image format: PNG optimized for contest entry with crisp typography and map detail
+// world-today-poster — v14 broadsheet, news-image-20261118 (Wednesday 18 November 2026)
+// Poster reads like a printed front page: a masthead strip up top carrying the
+// "World Today" name and the day's date, a map band across the upper third
+// sketching all six continents in grayscale with a blue accent bar, then three
+// headline columns beneath split by region — Americas, Europe & Africa, and
+// Asia-Pacific left to right. 30 stories total, ten per column, spanning
+// geopolitics, economics, technology, and culture for even coverage. Stories
+// draw on the day's major wire services and established international outlets.
+// Serif masthead over sans-serif body copy, print-style palette, exported as
+// a single crisp PNG for the contest entry.
 
 import { readFileSync, writeFileSync, mkdirSync } from "fs";
 import { join } from "path";
