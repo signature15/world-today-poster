@@ -1,3 +1,4 @@
+import { join } from 'node:path';
 // World news broadsheet for Wednesday 18 November 2026, rendered as a classic
 // newspaper front page. The layout opens with a bold serif masthead carrying
 // "One Day in World News" and the publication date, establishing editorial voice
@@ -12,8 +13,6 @@
 // optimized for clarity at multiple viewing scales.
 
 import { readFileSync, writeFileSync, mkdirSync } from "fs";
-import { join } from "path";
-
 const entryPath = join(import.meta.dirname, "entry.png");
 const outputDir = "/output";
 const outputPath = join(outputDir, "entry.png");
