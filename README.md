@@ -1,12 +1,12 @@
 # world-today-poster
 
-An entry for make.fun's [news image contest](https://make.fun/bounty/news-image-20261117) — the world's
+An entry for make.fun's [news image contest](https://make.fun/bounty/news-image-20261118) — the world's
 news of Tuesday 17 November 2026 summed up in one image, rendered as a
 front-page style poster with a world map band and regional headline columns.
 
-[![make.fun · news-image-20261117](https://make.fun/badge/news-image-20261117.svg)](https://make.fun/bounty/news-image-20261117?utm_source=github&utm_medium=readme&utm_campaign=news-image-20261117)
-[![rank](https://make.fun/badge/news-image-20261117/signature15/world-today-poster/rank.svg)](https://make.fun/bounty/news-image-20261117/leaderboard?utm_source=github&utm_medium=readme&utm_campaign=news-image-20261117)
-[![reward](https://make.fun/badge/news-image-20261117/signature15/world-today-poster/reward.svg)](https://make.fun/bounty/news-image-20261117?utm_source=github&utm_medium=readme&utm_campaign=news-image-20261117)
+[![make.fun · news-image-20261118](https://make.fun/badge/news-image-20261118.svg)](https://make.fun/bounty/news-image-20261118?utm_source=github&utm_medium=readme&utm_campaign=news-image-20261118)
+[![rank](https://make.fun/badge/news-image-20261118/signature15/world-today-poster/rank.svg)](https://make.fun/bounty/news-image-20261118/leaderboard?utm_source=github&utm_medium=readme&utm_campaign=news-image-20261118)
+[![reward](https://make.fun/badge/news-image-20261118/signature15/world-today-poster/reward.svg)](https://make.fun/bounty/news-image-20261118?utm_source=github&utm_medium=readme&utm_campaign=news-image-20261118)
 
 ## What it does
 
