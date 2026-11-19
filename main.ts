@@ -1,13 +1,15 @@
-// world-today-poster — v14 broadsheet, news-image-20261118 (Wednesday 18 November 2026)
-// Poster reads like a printed front page: a masthead strip up top carrying the
-// "World Today" name and the day's date, a map band across the upper third
-// sketching all six continents in grayscale with a blue accent bar, then three
-// headline columns beneath split by region — Americas, Europe & Africa, and
-// Asia-Pacific left to right. 30 stories total, ten per column, spanning
-// geopolitics, economics, technology, and culture for even coverage. Stories
-// draw on the day's major wire services and established international outlets.
-// Serif masthead over sans-serif body copy, print-style palette, exported as
-// a single crisp PNG for the contest entry.
+// World news broadsheet for Wednesday 18 November 2026, rendered as a classic
+// newspaper front page. The layout opens with a bold serif masthead carrying
+// "One Day in World News" and the publication date, establishing editorial voice
+// and temporal context. Below sits a day-in-numbers strip highlighting key global
+// metrics and statistics that frame the news cycle. The centerpiece is a regional
+// color-coded grid dividing the planet into geographic zones — each region gets
+// its own visual accent to organize stories at a glance. Lead stories from each
+// region command the upper zones, drawing the eye to the most consequential events.
+// Evening briefs and shorter-form updates fill the lower sections, providing breadth.
+// A sources footer grounds reporting in named wire services and publications, lending
+// credibility and transparency. The full design exports to a single PNG bitmap,
+// optimized for clarity at multiple viewing scales.
 
 import { readFileSync, writeFileSync, mkdirSync } from "fs";
 import { join } from "path";

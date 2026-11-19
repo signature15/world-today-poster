@@ -1,4 +1,4 @@
-# world-today-poster
+# One Day in World News - Wednesday 18 November 2026
 
 An entry for make.fun's [news image contest](https://make.fun/bounty/news-image-20261118) — the world's
 news of Tuesday 17 November 2026 summed up in one image, rendered as a
